@@ -2,8 +2,11 @@
 
 ---
 title: Understanding and Implementing Poisson Regression
+
 author: Your Name
+
 date: March 31, 2024
+
 output: pdf_document
 ---
 
